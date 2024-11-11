@@ -11,7 +11,7 @@
 # Password: rpl2024
 
 uname = 'loginUTS'
-pw = 'rpl2024'
+pw = '2024uts'
 kesempatan = 3
 
 while kesempatan <= 3 and kesempatan > 0:
