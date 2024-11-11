@@ -13,7 +13,7 @@ genap = []
 ganjil = []
 
 while True:
-    bil = int(input('Input bilangan : '))
+    bil = int(input('Masukkan bilangan : '))
 
     if(bil < 0):
         break
